@@ -48,7 +48,7 @@ printf("MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNMNNNNNNNNhysssssssyyyyyyyyyyyyyyyyyhmNN
 printf("MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNmhyyyyyyyyyyyyyyyyyyyyhdmNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMM\n");
 printf("MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNMNmdhhyyyyyyyyyyhhddmNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMM\n");
 printf("MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNmmmmmNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM\n");
-printf("                                                                                                        Smash Ultimate Hell :)\n");
+printf("                                                                                                        Kevin Oliveira Manhas :)\n");
 
 
 scanf("%i", &kirby);
